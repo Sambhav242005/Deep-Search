@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+aiohttp
+requests
+beautifulsoup4
+duckduckgo-search
+markitdown
+gradio
